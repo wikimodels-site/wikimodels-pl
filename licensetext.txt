@@ -15,5 +15,5 @@ Copyright (c) 2022 Wikimodels
                       End of T&Cs.
 
 Legal Notice: This License is waived to the public domain using the
-CC0 offered by Crwative Commons. Note that this license disclaims
+CC0 offered by Creative Commons. Note that this license disclaims
 warranty.
