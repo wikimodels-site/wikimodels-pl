@@ -13,3 +13,7 @@ Copyright (c) 2022 Wikimodels
    or FITNESS FOR A PARTICULAR PURPOSE. Liability is also not allowed.
 
                       End of T&Cs.
+
+Legal Notice: This License is waived to the public domain using the
+CC0 offered by Crwative Commons. Note that this license disclaims
+warranty.
