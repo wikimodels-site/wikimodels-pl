@@ -1,0 +1,13 @@
+The Wikimodels Public License (WMPL or Wikimodels-PL), version 1.0
+Copyright (c) 2022 Wikimodels
+
+     Terms and conditions for use, distribution and modification
+
+
+0. Conditions. Permission is granted to use, distribute and modify this
+   software, subject that the license and copyright notice appear in
+   any copies of the software.
+
+1. Disclaimer. This software is provided on an AS-IS" BASIS, with
+   absolutely NO WARRANTIES, EVEN for the purpose of NONINFRINGEMENT
+   or FITNESS FOR A PARTICULAR PURPOSE. Liability is also not allowed.
