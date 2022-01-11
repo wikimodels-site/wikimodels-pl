@@ -11,3 +11,5 @@ Copyright (c) 2022 Wikimodels
 1. Disclaimer. This software is provided on an AS-IS" BASIS, with
    absolutely NO WARRANTIES, EVEN for the purpose of NONINFRINGEMENT
    or FITNESS FOR A PARTICULAR PURPOSE. Liability is also not allowed.
+
+                      End of T&Cs.
