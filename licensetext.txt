@@ -11,7 +11,7 @@ Software Copyright Notice: © [YYYY] [COPYRIGHT HOLDER]
 
 
 0. Conditions. Permission is granted to use, distribute and modify this
-   software,  commercialy or noncommercialy, subject that
+   software,  commercialy or noncommercialy, by any means, subject that
    the license and copyright notice appear in any copies, binary or source.
 
 1. Disclaimer. The software is provided on an "AS-IS" BASIS, with
