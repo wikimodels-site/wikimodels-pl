@@ -2,15 +2,16 @@ The Wikimodels Public License (WMPL or Wikimodels-PL), version 1.0
 Copyright (c) 2022 Wikimodels
 Software Copyright Notice: © [YYYY] [COPYRIGHT HOLDER]
 
-                                This program is
+                                     This program is
 ▒█▀▀▀ █▀▀█ █▀▀ █▀▀ 　 █▀▀ █▀▀█ █▀▀ ▀▀█▀▀ █░░░█ █▀▀█ █▀▀█ █▀▀ 
 ▒▀▀▀▀ █▄▄▀ █▀▀ █▀▀ 　 ▀▀█ █░░█ █▀▀ ░░█░░ █▄█▄█ █▄▄█ █▄▄▀ █▀▀ 
 ▒█░░░ ▀░▀▀ ▀▀▀ ▀▀▀ 　 ▀▀▀ ▀▀▀▀ ▀░░ ░░▀░░ ░▀░▀░ ▀░░▀ ▀░▀▀ ▀▀▀
+                          and it can be distributed and/or modified.
 
      Terms and conditions for use, distribution and modification
 
 
-0. Conditions. Permission is granted to use, distribute and modify this
+0. Conditions. Permission is granted to use, distribute and/or modify this
    software,  commercialy or noncommercialy, by any means, subject that
    the license and copyright notice appear in any copies, binary or source.
 
